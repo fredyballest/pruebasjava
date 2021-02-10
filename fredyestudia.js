@@ -1,5 +1,5 @@
 function probando(){
-    var Name = "FUncion Fredy"
+    var Name = "FUntion Fredy"
     console.log(carName)
     }
 
